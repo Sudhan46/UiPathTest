@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome sutherland-production-yr7b68if.authent",
+  "Type": "Screen",
+  "Id": "-mXaSqfCWEqugrjDfbMu6Q",
+  "Reference": "BbcgVHIjnUeT-rgvIm8D3w/-mXaSqfCWEqugrjDfbMu6Q",
+  "ParentRef": "BbcgVHIjnUeT-rgvIm8D3w/DeDill-9k0WzfcDOp_HyoA",
+  "Created": "2025-07-28T10:55:03.0112763Z",
+  "Updated": "2025-07-28T10:55:03.0112763Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
